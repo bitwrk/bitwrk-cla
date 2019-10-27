@@ -1,6 +1,6 @@
 BitWrk Contributor License Agreement
 ====================================
-Thank You for Your Contribution to the BitWrk project.
+Thank You for Your contribution to the BitWrk project.
 
 In order to clarify the intellectual property license granted with
 contributions from any person or entity, the BitWrk project must
