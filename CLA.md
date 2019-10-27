@@ -38,6 +38,6 @@ contributions submitted to the BitWrk project.
  
 Signers
 =======
-| GitHub User | Foll Name                         | E-Mail Address                 | Date of Birth | Date of Signature |
+| GitHub User | Full Name                         | E-Mail Address                 | Date of Birth | Date of Signature |
 | ------------| --------------------------------- | ------------------------------ | ------------- | ----------------- |
 | example     | Sally Sample                      | sample@example.com             | 2001-03-21    | 2019-10-27        |
