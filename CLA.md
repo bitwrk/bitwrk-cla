@@ -40,4 +40,4 @@ Signers
 =======
 | GitHub User | Full Name                         | E-Mail Address                 | Date of Birth | Date of Signature |
 | ------------| --------------------------------- | ------------------------------ | ------------- | ----------------- |
-| example     | Sally Sample                      | sample@example.com             | 2001-03-21    | 2019-10-27        |
+| wpjunior    | Wilson Pinto Júnior               | wilsonpjunior@gmail.com        | 1992-10-27    | 2019-10-27        |
