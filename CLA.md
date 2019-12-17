@@ -41,3 +41,4 @@ Signers
 | GitHub User | Full Name                         | E-Mail Address                 | Date of Birth | Date of Signature |
 | ------------| --------------------------------- | ------------------------------ | ------------- | ----------------- |
 | wpjunior    | Wilson Pinto Júnior               | wilsonpjunior@gmail.com        | 1992-10-27    | 2019-10-27        |
+| toymak3r    | Antonio Edward Facundo Araujo     | toymak3r@gmail.com             | 1983-06-13    | 2019-12-02        |
