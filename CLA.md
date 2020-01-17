@@ -42,3 +42,5 @@ Signers
 | ------------| --------------------------------- | ------------------------------ | ------------- | ----------------- |
 | wpjunior    | Wilson Pinto Júnior               | wilsonpjunior@gmail.com        | 1992-10-27    | 2019-10-27        |
 | toymak3r    | Antonio Edward Facundo Araujo     | toymak3r@gmail.com             | 1983-06-13    | 2019-12-02        |
+| dazotaro    | Jorge Usabiaga                    | jusabiaga@gmail.com            | 1975-05-17    | 2020-01-16        |
+
